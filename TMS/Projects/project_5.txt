@@ -1,0 +1,27 @@
+5
+Proj_1 In_Process 0
+/-/
+P1
+/-/
+
+Proj_3 Done 2
+/-/
+P3
+/-/
+
+Proj_4 Waiting 3
+/-/
+P4
+/-/
+
+Proj_5 In_Process 4
+/-/
+P5
+/-/
+
+Proj_NEW Done 5
+/-/
+NEW
+/-/
+
+(*)
