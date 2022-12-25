@@ -73,3 +73,42 @@ ALL BUTTONS WORK EXACLTY WITH THE SAME LOGIC LIKE PROJECT'S PAGE DO !
 
 - Back
 Goes Back to the previous page.
+
+
+
+4. File Load/Saving Format
+
+- user_file_data.txt
+Users data.
+
+format:        size
+               user_1 pass_1 id_1
+               user_2 pass_2 id_2
+               user_3 pass_3 id_3
+               ...
+               (*)
+
+- Projects folder
+- projects_?
+Projects data, in place of '?' is the User's ID.
+
+format:        size
+               title_1 status_1 id_1
+               /-/
+               description_1
+               /-/
+               
+               title_2 status_2 id_2
+               /-/
+               description_2
+               /-/
+               
+               ...
+               (*)
+               
+- Tasks folder
+- tasks_??
+Tasks data, in place of first '?' is the User's ID, in place of second '?' is Project's ID.
+
+format:       Same as Project's
+                       
